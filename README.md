@@ -39,5 +39,9 @@ Before visualizing, the dataset was cleaned in Excel and Power BI:
 	-	Increase production of best-selling cookies (Fortune, Sugar, Chocolate) and review pricing or marketing for slower sellers.
 	-	Evaluate costs and apply competitive or location-based pricing to improve profit margins.
 
+## 📬 Contact
+**Abdullateef Abdulrasaq Ola**
+- *Email:* [abdullateefabdulrasaq80@gmail.com](abdullateefabdulrasaq80@gmail.com)
+- *LinkedIn:* [Abdullateef Abdulrasaq](https://www.linkedin.com/in/abdulrasaq-abdullateef-1051b6350/)
 
 
